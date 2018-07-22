@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ouchglass",
+  "name": "OuchGlass!",
+  "description": "OuchGlass! makes your life harder and sharper :)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "",
+  "url": "https://www.derkalaender.de",
+  "authorList": ["derkalaender", "or 'der kaländer' if you prefer"],
+  "credits": "No one really. I guess Forge, StackOverflow and myself?",
+  "updateUrl": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
